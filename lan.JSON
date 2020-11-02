@@ -1,0 +1,811 @@
+[{
+  "_id": {
+    "$oid": "5f7ebfc7aa1e427c7b24e47a"
+  },
+  "en": "You have reported a Content. Your details will remain confidential.",
+  "te": "మీరు కంటెంట్‌ను నివేదించారు. మీ వివరాలు గోప్యంగా ఉంటాయి.",
+  "hi": "आपने एक पोस्ट की सूचना दी है। आपका विवरण गोपनीय रहेगा।",
+  "mr": "आपण सामग्रीचा अहवाल दिला आहे. आपले तपशील गोपनीय राहतील.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7ec004aa1e427c7b24e47b"
+  },
+  "en": "Spaark already exists",
+  "te": "స్పార్క్ ఇప్పటికే ఉంది",
+  "hi": "स्पार्क पहले से मौजूद है",
+  "mr": "स्पार्क आधीपासून विद्यमान आहे",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7ec35648559079fb61e8fa"
+  },
+  "en": "Please provide username/password",
+  "te": "దయచేసి వినియోగదారు పేరు / పాస్‌వర్డ్‌ను నమోదు చేయండి",
+  "hi": "कृपया उपयोगकर्ता नाम / पासवर्ड प्रदान करें",
+  "mr": "कृपया वापरकर्तानाव / संकेतशब्द प्रदान करा",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f7ffdeb9e53470517350172"
+  },
+  "en": "Account with this number and email is suspended.",
+  "te": "ఈ నంబర్ మరియు ఇమెయిల్ ఉన్న ఖాతా తాత్కాలికంగా నిలిపివేయబడింది.",
+  "hi": "इस नंबर और ईमेल के साथ खाता निलंबित है।",
+  "mr": "हा नंबर आणि ईमेल असलेले खाते निलंबित केले आहे.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8007e4fc9ef33787e8aab7"
+  },
+  "en": "Deleted Successfully ",
+  "te": "-",
+  "hi": "सफलतापूर्वक मिटाया गया",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008467fd6ed3cb6accfdc"
+  },
+  "en": "Please login again.",
+  "te": "-",
+  "hi": "कृपया फिर से लॉगिन करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80084e7fd6ed3cb6accfdd"
+  },
+  "en": "Log out from at least one device.",
+  "te": "-",
+  "hi": "कम से कम एक फोन या कम्प्यूटर से लॉग आउट करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008557fd6ed3cb6accfde"
+  },
+  "en": "Uploaded profile picture successfully.",
+  "te": "-",
+  "hi": "प्रोफ़ाइल चित्र सफलतापूर्वक अपलोड किया गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80085e7fd6ed3cb6accfdf"
+  },
+  "en": "Something went wrong!",
+  "te": "-",
+  "hi": "कुछ गलत हो गया!",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008607fd6ed3cb6accfe0"
+  },
+  "en": "Account with these credentials was deleted. Please sign up again.",
+  "te": "-",
+  "hi": "इन नंबर/ईमेल वाले खाते को हटा दिया गया था। कृपया फिर से साइन अप करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008657fd6ed3cb6accfe1"
+  },
+  "en": "Content that you are trying to report doesn't exist anymore.",
+  "te": "-",
+  "hi": "वह सामग्री जो आप रिपोर्ट करने का प्रयास कर रहे हैं वह अब मौजूद नहीं है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80086c7fd6ed3cb6accfe2"
+  },
+  "en": "App is under maintenance. Please try after sometime.",
+  "te": "-",
+  "hi": "एप रखरखाव के अधीन है। कृपया कुछ देर बाद प्रयास करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80086c7fd6ed3cb6accfe3"
+  },
+  "en": "Package already exists.",
+  "te": "-",
+  "hi": "पैकेज पहले से मौजूद है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008737fd6ed3cb6accfe4"
+  },
+  "en": "Deleted all sessions. Please scan now.",
+  "te": "-",
+  "hi": "सभी सत्र हटा दिए गए हैं। कृपया अभी स्कैन करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008747fd6ed3cb6accfe5"
+  },
+  "en": "Invalid credentials.",
+  "te": "-",
+  "hi": "अमान्य क्रेडेंशियल्स।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80087b7fd6ed3cb6accfe6"
+  },
+  "en": "Cannot block yourself.",
+  "te": "-",
+  "hi": "खुद को ब्लॉक नहीं कर सकते।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80087d7fd6ed3cb6accfe7"
+  },
+  "en": "Please enter correct email.",
+  "te": "-",
+  "hi": "कृपया सही ईमेल दर्ज करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008817fd6ed3cb6accfe8"
+  },
+  "en": "You have already blocked this user.",
+  "te": "-",
+  "hi": "आपने इस उपयोगकर्ता को पहले ही ब्लॉक कर दिया है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80088a7fd6ed3cb6accfe9"
+  },
+  "en": "Blocked successfully.",
+  "te": "-",
+  "hi": "सफलतापूर्वक ब्लॉक किया गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80088d7fd6ed3cb6accfea"
+  },
+  "en": "Please enter correct phone number.",
+  "te": "-",
+  "hi": "कृपया सही फ़ोन नंबर दर्ज करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008937fd6ed3cb6accfeb"
+  },
+  "en": "Contact deleted.",
+  "te": "-",
+  "hi": "संपर्क हटाया गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008997fd6ed3cb6accfec"
+  },
+  "en": "Contact already exists.",
+  "te": "-",
+  "hi": "संपर्क पहले से मौजूद है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80089a7fd6ed3cb6accfed"
+  },
+  "en": "Account Suspended.",
+  "te": "-",
+  "hi": "खाता निलंबित।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008a87fd6ed3cb6accfee"
+  },
+  "en": "You cannot report yourself.",
+  "te": "-",
+  "hi": "आप खुद को रिपोर्ट नहीं कर सकते।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008a97fd6ed3cb6accfef"
+  },
+  "en": "Phone Number already registered.",
+  "te": "-",
+  "hi": "फ़ोन नंबर पहले से पंजीकृत है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008ae7fd6ed3cb6accff0"
+  },
+  "en": "You have already reported this Content.",
+  "te": "-",
+  "hi": "आप इस पोस्ट को पहले ही रिपोर्ट कर चुके हैं।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008b37fd6ed3cb6accff1"
+  },
+  "en": "Your password has been changed.",
+  "te": "-",
+  "hi": "आपका पासवर्ड बदल दिया गया है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008b47fd6ed3cb6accff2"
+  },
+  "en": "User already registered. Please login.",
+  "te": "-",
+  "hi": "उपयोगकर्ता पहले से ही पंजीकृत है। कृपया लॉगिन करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008ba7fd6ed3cb6accff3"
+  },
+  "en": "An email has been sent with further instructions.",
+  "te": "-",
+  "hi": "आगे के निर्देशों के साथ एक ईमेल भेजा गया है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008d27fd6ed3cb6accff4"
+  },
+  "en": "Password Reset",
+  "te": "-",
+  "hi": "पासवर्ड रीसेट।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008d37fd6ed3cb6accff5"
+  },
+  "en": "Spaark is Expired or Deleted.",
+  "te": "-",
+  "hi": "स्पार्क हट चुका है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008db7fd6ed3cb6accff6"
+  },
+  "en": "Response recorded. Thank you.",
+  "te": "-",
+  "hi": "-",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008df7fd6ed3cb6accff7"
+  },
+  "en": "Already Requested.",
+  "te": "-",
+  "hi": "पहले से अनुरोध हो चुका है|",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008eb7fd6ed3cb6accff9"
+  },
+  "en": "Request Deleted.",
+  "te": "-",
+  "hi": "अनुरोध हटा दिया गया है ।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008ed7fd6ed3cb6accffa"
+  },
+  "en": "Can’t post as Buyer.",
+  "te": "-",
+  "hi": "खरीददार के रूप में पोस्ट नहीं किया जा सकता।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008f47fd6ed3cb6accffb"
+  },
+  "en": "Can’t post as Seller.",
+  "te": "--",
+  "hi": "विक्रेता के रूप में पोस्ट नहीं किया जा सकता।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008f67fd6ed3cb6accffc"
+  },
+  "en": "Successfully Accepted.",
+  "te": "-",
+  "hi": "सफलतापूर्वक स्वीकार कर लिया गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8008ff7fd6ed3cb6accffd"
+  },
+  "en": "Rejected successfully",
+  "te": "-",
+  "hi": "सफलतापूर्वक अस्वीकार कर दिया गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8009097fd6ed3cb6accffe"
+  },
+  "en": "This text contains inappropriate content. Please check our Policies.",
+  "te": "-",
+  "hi": "इस पाठ में अनुचित सामग्री है। कृपया हमारी नीतियां देखें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f80092b7fd6ed3cb6acd000"
+  },
+  "en": "You already have 4 live Spaarks posted as Seller. Delete any to post a new one.",
+  "te": "-",
+  "hi": "आपके पास पहले से ही विक्रेता के रूप में 4 लाइव स्पार्क्स तैनात हैं। नया पोस्ट करने के लिए कोई भी एक स्पार्क्स हटाएं।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8009317fd6ed3cb6acd001"
+  },
+  "en": "Please select a category",
+  "te": "-",
+  "hi": "कृपया एक श्रेणी चयनित करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e77d5ab921763d91c71e2"
+  },
+  "en": "Email already registered.",
+  "te": "-",
+  "hi": "ईमेल पहले से मौजूद है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e7b7aab921763d91c71e3"
+  },
+  "en": "Please enter a valid username.",
+  "te": "-",
+  "hi": "कृप्या सही उपयोगकर्तानाम लिखें। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e7c1cab921763d91c71e4"
+  },
+  "en": "Invalid mobile number.",
+  "te": "-",
+  "hi": "मोबाइल नंबर गलत है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e7cb4ab921763d91c71e5"
+  },
+  "en": "OTP is not valid.",
+  "te": "-",
+  "hi": "औटीपी गलत है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e7d37ab921763d91c71e6"
+  },
+  "en": "User logged out.",
+  "te": "-",
+  "hi": "उपयोगकर्ता लोग आउट हुआ।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e7d64ab921763d91c71e7"
+  },
+  "en": "Validation failed for mobile number.",
+  "te": "-",
+  "hi": "मोबाइल नंबर की पुष्टि असफल रही।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e7db0ab921763d91c71e8"
+  },
+  "en": "Mobile number already in use.",
+  "te": "-",
+  "hi": "मोबाइल नंबर पहले से मौजूद है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e84feab921763d91c71e9"
+  },
+  "en": "Your Reporting quota for this month is expired.",
+  "te": "-",
+  "hi": "आपकी इस माह की रिपोर्ट करने की सीमा समाप्त हो चुकी है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e85e2ab921763d91c71ea"
+  },
+  "en": "Photo limit exceeded.",
+  "te": "-",
+  "hi": "तस्वीर जोड़ने की सीमा समाप्त। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8e96dcab921763d91c71eb"
+  },
+  "en": "This person has already requested you. Please accept or reject the request from My Chats.",
+  "te": "-",
+  "hi": "यह उपयोगकर्ता आपको पहले ही निवेदन भेज चुका है। निवेदन में जाकर स्वीकार या मना करें।  ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ead1dab921763d91c71ec"
+  },
+  "en": "You already have a pending request to this user from some other Spaark earlier. Clicking connect will override the earlier request.",
+  "te": "-",
+  "hi": "आप इस उपयोगकर्ता को किसी और स्पार्क के माध्यम से पहले एक अनुरोध भेज चुके हैं। फिर से कनेक्ट करने से पहले वाला अनुरोध हैट कर नया वाला रखा जायेगा। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8eb00cab921763d91c71ed"
+  },
+  "en": "Please select Seller/Buyer.",
+  "te": "-",
+  "hi": "विक्रेता या खरीददार चुनें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8eb5eaab921763d91c71ee"
+  },
+  "en": "Already posted.",
+  "te": "-",
+  "hi": "पोस्ट हो चुका है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8eb807ab921763d91c71ef"
+  },
+  "en": "Please pass required fields.",
+  "te": "-",
+  "hi": "कृप्या पूरी जानकारी दें। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8eb81aab921763d91c71f0"
+  },
+  "en": "Please provide valid data.",
+  "te": "-",
+  "hi": "कृप्या सही जानकारी दें। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8eb899ab921763d91c71f1"
+  },
+  "en": "Alert sent.",
+  "te": "-",
+  "hi": "अलर्ट भेजा गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8eba83ab921763d91c71f2"
+  },
+  "en": "User id does not exist.",
+  "te": "-",
+  "hi": "उपयोगकर्ता आई डी मौजूद नहीं। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebac5ab921763d91c71f3"
+  },
+  "en": "User not found.",
+  "te": "-",
+  "hi": "उपयोगकर्ता नहीं मिला। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebbadab921763d91c71f4"
+  },
+  "en": "Cannot unblock yourself.",
+  "te": "-",
+  "hi": "आप खुद को ब्लॉक से नहीं हटा सकते। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebbdeab921763d91c71f5"
+  },
+  "en": "Unblocked successfully.",
+  "te": "-",
+  "hi": "सफलतापूर्वक ब्लॉक से हटाया गया। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebc0eab921763d91c71f6"
+  },
+  "en": "User saved successfully.",
+  "te": "-",
+  "hi": "उपयोगकर्ता सफलतापूर्वक जुड़ गया है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebc3eab921763d91c71f7"
+  },
+  "en": "Device successfully registered",
+  "te": "-",
+  "hi": "-",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebc8fab921763d91c71f8"
+  },
+  "en": "Successfully added the Service.",
+  "te": "-",
+  "hi": "सेवा सफलतापूर्वक जुड़ गयी है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebd40ab921763d91c71f9"
+  },
+  "en": "Please wait for a Service to expire.",
+  "te": "-",
+  "hi": "कृपया सेवा की समय सीमा समाप्त होने तक प्रतीक्षा करें।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebe25ab921763d91c71fa"
+  },
+  "en": "Thank you for your rating.",
+  "te": "-",
+  "hi": "रेटिंग देने के लिए धन्यवाद। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ebe4dab921763d91c71fb"
+  },
+  "en": "Failed to logout.",
+  "te": "-",
+  "hi": "लॉगआउट असफल। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec154ab921763d91c71fc"
+  },
+  "en": "Package does not exist.",
+  "te": "-",
+  "hi": "पैकेज मौजूद नहीं है।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec16bab921763d91c71fd"
+  },
+  "en": "Wrong details.",
+  "te": "-",
+  "hi": "जानकारी गलत है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec18eab921763d91c71fe"
+  },
+  "en": "Package already added.",
+  "te": "-",
+  "hi": "पैकेज पहले से जुड़ चुका है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec1b1ab921763d91c71ff"
+  },
+  "en": "Order id does not exist.",
+  "te": "-",
+  "hi": "आर्डर आई डी मौजूद नहीं। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec1bfab921763d91c7200"
+  },
+  "en": "Order updated.",
+  "te": "-",
+  "hi": "आर्डर अपडेट हुआ। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec1e6ab921763d91c7201"
+  },
+  "en": "Order not found.",
+  "te": "-",
+  "hi": "आर्डर जानकारी नहीं मिली। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec208ab921763d91c7202"
+  },
+  "en": "User deleted successfully.",
+  "te": "-",
+  "hi": "उपयोगकर्ता सफलतापूर्वक मिटाया गया। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec224ab921763d91c7203"
+  },
+  "en": "Wrong Password.",
+  "te": "-",
+  "hi": "गलत पासवर्ड। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec241ab921763d91c7204"
+  },
+  "en": "Updated successfully.",
+  "te": "-",
+  "hi": "सफलतापूर्वक बदला गया।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec25bab921763d91c7205"
+  },
+  "en": "Nothing to preview.",
+  "te": "-",
+  "hi": "देखने के लिए कुछ नहीं। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec25bab921763d91c7206"
+  },
+  "en": "Nothing to Preview",
+  "te": "-",
+  "hi": "-",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec25bab921763d91c7207"
+  },
+  "en": "Nothing to Preview",
+  "te": "-",
+  "hi": "-",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec270ab921763d91c7208"
+  },
+  "en": "Added",
+  "te": "-",
+  "hi": "जोड़ा गया। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec29fab921763d91c7209"
+  },
+  "en": "Already added.",
+  "te": "-",
+  "hi": "पहले से ही जुड़ा है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec2bfab921763d91c720a"
+  },
+  "en": "You cannot contact yourself.",
+  "te": "-",
+  "hi": "आप खुद को संपर्क नहीं कर सकते। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec31dab921763d91c720b"
+  },
+  "en": "Contact saved.",
+  "te": "-",
+  "hi": "संपर्क सेव हुआ। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec37aab921763d91c720c"
+  },
+  "en": "Already expired.",
+  "te": "-",
+  "hi": "पहले से ही समाप्त है। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec3c9ab921763d91c720d"
+  },
+  "en": "Ended Successfully.",
+  "te": "-",
+  "hi": "सफलतापूर्वक ख़त्म।",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec3e6ab921763d91c720e"
+  },
+  "en": "Cleared",
+  "te": "-",
+  "hi": "साफ़ किया गया। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec413ab921763d91c720f"
+  },
+  "en": "Resumed",
+  "te": "-",
+  "hi": "फिर से शुरू। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec487ab921763d91c7211"
+  },
+  "en": "Chat resumed.",
+  "te": "-",
+  "hi": "चैट फिर से शुरू हुई। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec50dab921763d91c7212"
+  },
+  "en": "Email sent.",
+  "te": "-",
+  "hi": "ईमेल भेजा गया। ",
+  "mr": "-",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f8ec522ab921763d91c7213"
+  },
+  "en": "Successfully updated.",
+  "te": "-",
+  "hi": "सफलतापूर्वक बदला गया। ",
+  "mr": "-",
+  "__v": 0
+}]
